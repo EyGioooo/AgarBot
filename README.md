@@ -13,11 +13,13 @@ You can minimize the browser and do something else, come back later and see how 
 # Installation Process
 To run this bot, you'll need to have the TamperMonkey extension installed to your browser.
 Links:
+
 (Opera) https://addons.opera.com/en/extensions/details/tampermonkey-beta/?display=en
 
 (Google Chrome) https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 If you are using Firefox GreaseMonkey, link:
+
 (Firefox) https://addons.mozilla.org/nl/firefox/addon/greasemonkey/
 
 Once you've installed GreaseMonkey or TamperMonkey, click "bot.user.js" and then click 'raw' on the right top of the editor.
