@@ -1,6 +1,8 @@
 # AgarBot
 AgarBot is the latest working and ban-proof Bot for www.agar.io (the game).
 
+Please note that this is a fork from the default AgarBot, but this one is not patched, ban proof and way stabler.
+
 # Features
 Automaticly stay away from cells(balls) larger than you
 
