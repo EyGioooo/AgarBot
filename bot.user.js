@@ -4,7 +4,7 @@
 // @include     http://agar.io/
 // @version     0.5
 // @grant       none
-// @author      EyGiooo
+// @author      Rocketaxe
 // ==/UserScript==
 
 (function (g, q) {
